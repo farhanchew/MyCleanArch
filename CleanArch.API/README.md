@@ -1,0 +1,1 @@
+﻿ASP.NET Core Web Application > Web API (no front end) or Angular (wrap together angular in the project)

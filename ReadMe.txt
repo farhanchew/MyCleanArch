@@ -1,8 +1,9 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+Note:
 
-  <PropertyGroup>
-    <TargetFramework>netcoreapp2.2</TargetFramework>
-  </PropertyGroup>
+Double Click on any project, will open the csproj file.
+
+we can copy the item group (dependency) to different project's:
+example:
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="8.1.0" />
@@ -15,4 +16,3 @@
     <PackageReference Include="Braintree" Version="4.15.0" />
   </ItemGroup>
   
-</Project>
